@@ -1,0 +1,10 @@
+C:\Users\thao\source\repos\RapChieuPhim\RapChieuPhim\bin\Debug\RapChieuPhim.exe.config
+C:\Users\thao\source\repos\RapChieuPhim\RapChieuPhim\bin\Debug\RapChieuPhim.exe
+C:\Users\thao\source\repos\RapChieuPhim\RapChieuPhim\bin\Debug\RapChieuPhim.pdb
+C:\Users\thao\source\repos\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\thao\source\repos\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.F_DangNhap.resources
+C:\Users\thao\source\repos\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.Properties.Resources.resources
+C:\Users\thao\source\repos\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+C:\Users\thao\source\repos\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\thao\source\repos\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.exe
+C:\Users\thao\source\repos\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.pdb

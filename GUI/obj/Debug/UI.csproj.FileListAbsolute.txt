@@ -1,0 +1,15 @@
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\GUI.exe.config
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\GUI.F_DangKy.resources
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\GUI.F_DangNhap.resources
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\GUI.ViewAdmin.F_QuanLyPhim.resources
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\GUI.ViewAdmin.F_ThongTinAdmin.resources
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\GUI.ViewUser.F_ChonPhim.resources
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\GUI.ViewUser.F_ThongTinKhachHang.resources
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\GUI.ViewAdmin.F_QuanLyPhim.aa.resources
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\GUI.exe
+C:\Users\thao\source\repos\RapChieuPhim\GUI\obj\Debug\GUI.pdb
